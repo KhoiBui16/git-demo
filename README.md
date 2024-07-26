@@ -17,4 +17,5 @@ Step4: Add remote
 Step5: Push code
 - git push origin
 
--> Làm xong task
+Login task
+-> checkout về branch cần làm task
