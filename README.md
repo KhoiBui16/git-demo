@@ -4,7 +4,7 @@ Step1: git init
 Step2: git checkout -b <name-branch>
 -> tạo nhánh mới có tên là <name-branch>
 
-- git status: kiểm tra từng nhánh
+- git status: kiểm tra từng nhánh ()
 
 Step3: Commit code
 - git add <fileNane> -> add từng file 1
